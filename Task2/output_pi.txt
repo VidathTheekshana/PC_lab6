@@ -1,2 +1,0 @@
-Approximate Pi = 3.141130
-Time = 0.350050 seconds
